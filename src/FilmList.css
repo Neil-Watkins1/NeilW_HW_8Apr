@@ -1,0 +1,11 @@
+.film-list a {
+  text-align: left;
+  padding-left: 20pt;
+margin-top: 20pt;
+margin-bottom: 40pt;
+  font-size: 20pt;
+  font-style: bold;
+  text-decoration: none;
+  color: rgb(55,118,174);
+
+}

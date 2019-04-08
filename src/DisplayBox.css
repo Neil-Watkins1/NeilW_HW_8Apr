@@ -1,0 +1,44 @@
+
+.display-box{
+
+  width: 600px;
+  height: 450px;
+  border: 2px solid black;
+  padding: 10px;
+  margin: 40px;
+  background-color: rgb(241,241,241);
+}
+
+hr{
+
+  color: rgb(218,218,218);
+  border-width: normal;
+}
+
+h2 {
+  font-size: 22pt;
+  text-align: left;
+
+}
+.listings{
+  width:500px;
+  padding-top: 50px;
+  padding-bottom: 50px;
+  border-top: 2px solid rgb(218,218,218);
+  border-bottom: 2px solid rgb(218,218,218);
+}
+
+.button{
+  width:560px;
+  height: 50px;
+  text-decoration: none;
+  border:2px solid black;
+  color: rgb(55,118,174);
+  font-size: 22pt;
+  padding-left: 20px;
+  padding-right: 140px;
+  padding-top: 20px;
+  padding-bottom: 20px;
+  background-color: rgb(159,196,223);
+  vertical-align: baseline;
+}
